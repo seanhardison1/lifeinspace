@@ -1,0 +1,5 @@
+# Ignore files or directories named "old"
+**/old/
+**/data/
+**/gis/
+**/pdf/
