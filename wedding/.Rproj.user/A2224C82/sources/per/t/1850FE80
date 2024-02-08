@@ -1,0 +1,26 @@
+{
+    "id": "1850FE80",
+    "path": "~/Documents/git/lis2/wedding/R/get_dem.R",
+    "project_path": "R/get_dem.R",
+    "type": "r_source",
+    "hash": "826628119",
+    "contents": "",
+    "dirty": false,
+    "created": 1689376739372.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "14,36",
+        "scrollLine": "6"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1689376958,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1689376958031,
+    "read_only": false,
+    "read_only_alternatives": []
+}
